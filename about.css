@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/**footer**/
+.container1 {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(66, 60, 60);
+    color: rgb(241, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.featurette-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/**submit box**/
+#submit {
+    border: 2px solid black;
+    border-radius: 3px;
+    box-shadow: 2px;
+    width: 40.66666667%;
+}
+
+/**contant last button**/
+.button {
+    display: flex;
+    justify-content: right;
+    align-items: self-end;
+    margin-top: 3px;
+
+}
+
+
+
+
+
+
+
+
+
+
